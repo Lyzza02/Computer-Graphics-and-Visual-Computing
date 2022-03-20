@@ -1,0 +1,26 @@
+--------Important NOTES--------
+>> always a folder per project
+
+>Project options
+library directories
+C:\freeglut-MinGW-3.0.0-1.mp\freeglut\lib\x64 ---> laptop ni kuya
+C:\freeglut\lib\x64 ---> laptop ko
+C:\glew-2.1.0\lib\Release\x64 ---> with VBO (laptop ko)
+
+include directories
+C:\freeglut-MinGW-3.0.0-1.mp\freeglut\include ---> laptop ni kuya
+C:\freeglut\include ---> laptop ko
+C:\glew-2.1.0\include ---> with VBO (laptop ko)
+
+Under the parameters (linkers):
+-lopengl32
+-lfreeglut
+-lglu32
+
+
+>> CODIO ---- sample run sa terminal sa linux
+gcc sample1.c -lgut -o sample1 -lGL 
+gcc sample2.c -lgut -o sample1 -lGL -lGLU 
+
+//mostly na gagamitin sa codio
+g++ sample3.cpp -o sample3 -lgut -lGL -lGLEW
