@@ -1,5 +1,7 @@
 # Computer Graphics and Visual Computing
 
+<p>OpenGL in C++ program. The IDE used is DEV-C.</p>
+
 <TABLE BORDER="0" ALIGN=”RIGHT”>
   <TR>
     <TD width="50%">
