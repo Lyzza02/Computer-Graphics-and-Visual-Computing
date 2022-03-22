@@ -1,6 +1,7 @@
 # Computer Graphics and Visual Computing
 
 <p>OpenGL in C++ program. The IDE used is DEV-C.</p>
+<p>This is a repository for all works in OpenGL C++</p>
 
 <TABLE BORDER="0" ALIGN=”RIGHT”>
   <TR>
