@@ -25,7 +25,8 @@
     </TD>
     <TD>
       <b> Human </b>
-      <br> - Displaying a human in OpenGL <br>
+      <br> - Displaying a human in OpenGL
+      <br> - Displaying it by using Vertex Array and Vertex Buffer Object <br>
       <img src="https://user-images.githubusercontent.com/76563020/159152967-19d11c4f-f130-4984-849b-38a1d1c75f05.png" alt = "Human">
     </TD>
   </TR>
@@ -43,5 +44,10 @@
       <img src="https://user-images.githubusercontent.com/76563020/159152895-a80b2a91-b30b-418f-a883-a8e425809fcb.png" alt = "Face Moving">
     </TD>
     <TD>
+      <b> VA and VBO </b>
+      <br> - Displaying a house in OpenGL
+      <br> - Displaying it by using Vertex Array and Vertex Buffer Object <br><br>
+      <img src="https://user-images.githubusercontent.com/76563020/160270188-37a33224-30b4-46ae-80df-c75a712bd768.png" alt = "house">
+    </TD>
   </TR>
 </TABLE>
